@@ -28,7 +28,7 @@ How to Run:
    I may have forgot some of the modules, if so plase detect them and install them.
 10. Now we are ready to start my-app, before that do not forget to open studentdb server and spring boot application
 11. Go to my-app/ in command prompt and run npm start
-12. It should oepn the website on localhost:3000
+12. It should open the website on localhost:3000
 
 Requirements that are not satisfied:
 1.React Hook is never used.
