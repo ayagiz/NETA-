@@ -18,17 +18,10 @@ How to Run:
 -Download the project folder and run /project/src/main/java/com/netas/project/ProjectApplication.java
 5. This starts the Server side and also connects to the studentdb database.
 6. To create React file use the command npx create-react-app my-app
-7. Inside my-app/  replace package.json file with the file that I provided in react_Files/ or just add the line "proxy": "http://localhost:8080". Without it we can not connect to our spring rest service that is running on port 8080.
+7. Inside my-app/  replace package.json file with the file that I provided in react_Files/. This way it will now how to connect to the spring boot service and also install npm packages that I used
 8. Delete all files except .vs in my-app/src and add the files that I provided in react_Files/src
-9. Before we start my-app we need to install some node modules.
-   1. npm install --save bootstrap@4.1.3 react-cookie@3.0.4 react-router-dom@4.3.1 reactstrap@6.5.0
-   2. npm install react-input-mask --save
-   3. npm i react-select-me --save
-   4. npm install primereact --save
-   5. npm install primeicons --save
-   I may have forgot some of the modules, if so plase detect them and install them.
-10. Now we are ready to start my-app, before that do not forget to open studentdb server and spring boot application
-11. Go to my-app/ in command prompt and run npm start
+9. Now we are ready to start my-app, before that do not forget to open studentdb server and spring boot application
+10. Go to my-app/ in command prompt and run npm start
 12. It should open the website on localhost:3000
 
 Requirements that are not satisfied:
