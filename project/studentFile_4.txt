@@ -1,0 +1,5 @@
+nether kale 1040 67 447
+nether spawn 5 70 180
+normal dünya spawn 140 1400
+dragon 2058 123 1243
+ender city -905 61 602
