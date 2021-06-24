@@ -18,7 +18,7 @@ How to Run:
 -Download the project folder and run /project/src/main/java/com/netas/project/ProjectApplication.java
 5. This starts the Server side and also connects to the studentdb database.
 6. To create React file use the command npx create-react-app my-app
-7. Inside my-app/  replace package.json file with the file that I provided in react_Files/. This way it will now how to connect to the spring boot service and also install npm packages that I used
+7. Inside my-app/  replace package.json file with the file that I provided in react_Files/. This way it will know how to connect to the spring boot service and also install npm packages that I used
 8. Delete all files except .vs in my-app/src and add the files that I provided in react_Files/src
 9. Now we are ready to start my-app, before that do not forget to open studentdb server and spring boot application
 10. Go to my-app/ in command prompt and run npm start
